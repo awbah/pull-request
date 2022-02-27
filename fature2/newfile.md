@@ -1,0 +1,1 @@
+# New file was added in feature 2 branch
