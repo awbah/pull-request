@@ -1,0 +1,1 @@
+# This file is added in a new folder in the feature1 branch
